@@ -1,0 +1,33 @@
+https://supersimple.dev/public/img/exercises/youtube/icons/hamburger-menu.svg ---- Hamburger menu
+
+https://supersimple.dev/public/img/exercises/youtube/icons/home.svg ----  home
+
+https://supersimple.dev/public/img/exercises/youtube/icons/explore.svg --- explore
+
+https://supersimple.dev/public/img/exercises/youtube/icons/subscriptions.svg --- subscriptions
+
+https://supersimple.dev/public/img/exercises/youtube/icons/originals.svg --- originals
+
+https://supersimple.dev/public/img/exercises/youtube/icons/youtube-music.svg --- youtube music
+
+https://supersimple.dev/public/img/exercises/youtube/icons/library.svg --- library
+
+https://supersimple.dev/public/img/exercises/youtube/icons/youtube-logo.svg --- youtube logo
+
+https://supersimple.dev/public/img/exercises/youtube/icons/search.svg --- search
+
+https://supersimple.dev/public/img/exercises/youtube/icons/voice-search-icon.svg --- voice search
+
+https://supersimple.dev/public/img/exercises/youtube/icons/upload.svg --- upload
+
+https://supersimple.dev/public/img/exercises/youtube/icons/youtube-apps.svg --- youtube apps
+
+https://supersimple.dev/public/img/exercises/youtube/icons/notifications.svg --- notifications
+
+https://supersimple.dev/public/img/exercises/youtube/channel-profile-pics/my-channel.jpeg --- profile picture
+
+
+
+
+
+
